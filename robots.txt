@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://testpublii.fumo9223.odns.fr/sitemap.xml
+Sitemap: https://ben-s.github.io/gitpublii/sitemap.xml

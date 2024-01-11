@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Test site synchronisé",
     "description": "",
-    "home_page_url": "https://testpublii.fumo9223.odns.fr",
-    "feed_url": "https://testpublii.fumo9223.odns.fr/feed.json",
+    "home_page_url": "https://ben-s.github.io/gitpublii",
+    "feed_url": "https://ben-s.github.io/gitpublii/feed.json",
     "user_comment": "",
     "author": {
         "name": "ben"
     },
     "items": [
         {
-            "id": "https://testpublii.fumo9223.odns.fr/accueil.html",
-            "url": "https://testpublii.fumo9223.odns.fr/accueil.html",
+            "id": "https://ben-s.github.io/gitpublii/accueil.html",
+            "url": "https://ben-s.github.io/gitpublii/accueil.html",
             "title": "Accueil",
             "summary": "Bienvenue sur cette page d'accueil",
             "content_html": "<p>Bienvenue sur cette page d'accueil</p>",
