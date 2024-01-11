@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Test site synchronisé</title>
+    <link href="https://testpublii.fumo9223.odns.fr/feed.xml" rel="self" />
+    <link href="https://testpublii.fumo9223.odns.fr" />
+    <updated>2024-01-12T00:41:32+01:00</updated>
+    <author>
+        <name>ben</name>
+    </author>
+    <id>https://testpublii.fumo9223.odns.fr</id>
+
+    <entry>
+        <title>Accueil</title>
+        <author>
+            <name>ben</name>
+        </author>
+        <link href="https://testpublii.fumo9223.odns.fr/accueil.html"/>
+        <id>https://testpublii.fumo9223.odns.fr/accueil.html</id>
+
+        <updated>2024-01-12T00:41:32+01:00</updated>
+            <summary>
+                <![CDATA[
+                    Bienvenue sur cette page d'accueil
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Bienvenue sur cette page d'accueil</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
